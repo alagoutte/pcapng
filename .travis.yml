@@ -12,3 +12,7 @@ install:
  - sudo pip install xml2rfc
 
 script: make ghpages
+
+env:
+  global:
+    - secure: H/63OC4PX7+WIn6xlUnBVV5/JExIBUWkHJv3LKSuNcmmHdKbs+hmZLQyuUp6sWKSR4IelKrTs7rw4TO2Mq/aNKW2I4WSrFujCiVAxuE6f9RSii5U3IxbnCn8aFs3o3yd9PWPKmnq1jfi0wB+TD+SskrAM5IjplGcn0FdjK2C5y8=
